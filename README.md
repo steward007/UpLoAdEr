@@ -1,6 +1,6 @@
 # UpLoAdEr    
 
-用法：python upload.py 要上传的文件.txt 传输时分块大小 目标文件    
+用法：python upload.py 要上传的文件 传输时分块大小 目标文件    
 
 程序是这么运行的：
 
